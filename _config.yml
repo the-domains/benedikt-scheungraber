@@ -1,16 +1,16 @@
-typography_spectrum: 0.5966484018135816
+typography_spectrum: 0.5425228457897902
 color:
-  brandStrength: 0.3638083229307085
-  lightness: 0.47901969333179295
-  saturation: 0.8156319232657552
-  rhythmicContrast: 0.9055619882419705
+  brandStrength: 0.7474861985538155
+  lightness: 0.25511671928688884
+  saturation: 0.8695006901398301
+  rhythmicContrast: 0.0033133667893707752
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
-layout_spectrum: 0.19770681066438556
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.11217959155328572
 name: wor(l)dtravel
 navigation:
   - name: About Me
