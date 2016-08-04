@@ -11,6 +11,10 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.061731714522466063
-name: bennyS
+name: wordtravel
+navigation:
+  - name: About Me
+    url: /aboutme
+    type: external
 title: Testseite
 description: Eine schöne Testseite
