@@ -16,5 +16,8 @@ navigation:
   - name: About Me
     url: /aboutme
     type: external
+  - name: Stuff I Like
+    url: /stuff-i-like
+    type: external
 title: Wor(l)dtravel
 description: Eine schöne Testseite
