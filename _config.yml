@@ -11,10 +11,10 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.061731714522466063
-name: wordtravel
+name: wor(l)dtravel
 navigation:
   - name: About Me
     url: /aboutme
     type: external
-title: Testseite
+title: Wor(l)dtravel
 description: Eine schöne Testseite
