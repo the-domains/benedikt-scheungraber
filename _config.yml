@@ -1,16 +1,16 @@
-typography_spectrum: 0.6190885873511434
+typography_spectrum: 0.03539604158140719
 color:
-  brandStrength: 0.09066003747284412
-  lightness: 0.6342916151043028
-  saturation: 0.045454751467332244
-  rhythmicContrast: 0.46986140846274793
+  brandStrength: 0.010917693609371781
+  lightness: 0.7176616287324578
+  saturation: 0.2571557345800102
+  rhythmicContrast: 0.451719171134755
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.31134930858388543
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.061731714522466063
 name: bennyS
 title: Testseite
 description: Eine schöne Testseite
