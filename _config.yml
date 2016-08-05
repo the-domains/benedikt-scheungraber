@@ -1,21 +1,18 @@
-typography_spectrum: 0.5425228457897902
+typography_spectrum: 0.03539604158140719
 color:
-  brandStrength: 0.7474861985538155
-  lightness: 0.25511671928688884
-  saturation: 0.8695006901398301
-  rhythmicContrast: 0.0033133667893707752
+  brandStrength: 0.010917693609371781
+  lightness: 0.7176616287324578
+  saturation: 0.2571557345800102
+  rhythmicContrast: 0.451719171134755
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.11217959155328572
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.061731714522466063
 name: wor(l)dtravel
 navigation:
-  - name: About Me
-    url: /aboutme
-    type: external
   - name: Stuff I Like
     url: /stuff-i-like
     type: external
