@@ -12,9 +12,6 @@ color:
     - '#DD403A'
 layout_spectrum: 0.061731714522466063
 name: wor(l)dtravel
-navigation:
-  - name: Stuff I Like
-    url: /stuff-i-like
-    type: external
+navigation: []
 title: Wor(l)dtravel
 description: Eine schöne Testseite
